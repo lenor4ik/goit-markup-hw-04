@@ -363,8 +363,8 @@ ul {
   text-transform: uppercase;
   display: inline-block;
   margin-bottom: 16px;
-  margin-right: 120px;
 }
+
 .footer-span-studio {
   color: #f4f4fd;
 }
@@ -375,7 +375,9 @@ ul {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
-
+.container-logo-text {
+  margin-right: 120px;
+}
 .name-contacts-soc {
   color: #ffffff;
   font-family: Roboto;
@@ -404,6 +406,6 @@ ul {
   background-color: #31d0aa;
 }
 
-.footer-contacts-soc:focus .link {
+.footer-contacts-soc .link:focus {
   background-color: #31d0aa;
 }
