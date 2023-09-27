@@ -347,6 +347,8 @@ ul {
 .footer {
   background: #2e2f42;
   padding: 100px 0;
+  display: flex;
+  align-items: baseline;
 }
 
 .footer-logo {
@@ -359,6 +361,7 @@ ul {
   text-transform: uppercase;
   display: inline-block;
   margin-bottom: 16px;
+  margin-right: 120px;
 }
 .footer-span-studio {
   color: #f4f4fd;
