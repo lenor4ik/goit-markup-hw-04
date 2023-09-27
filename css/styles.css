@@ -257,11 +257,11 @@ ul {
   background-color: #4d5ae5;
 }
 
-.contacts-soc .link:hover {
+.contacts-soc-list .link:hover {
   background-color: #404bbf;
 }
 
-.contacts-soc .link:focus {
+.contacts-soc-list .link:focus {
   background-color: #404bbf;
 }
 
