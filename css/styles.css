@@ -347,10 +347,12 @@ ul {
 .footer {
   background: #2e2f42;
   padding: 100px 0;
+}
+
+.footer-cont {
   display: flex;
   align-items: baseline;
 }
-
 .footer-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
