@@ -258,11 +258,11 @@ ul {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.contacts-soc-list .link:hover {
+.contacts-soc-item .link:hover {
   background-color: #404bbf;
 }
 
-.contacts-soc-list .link:focus {
+.contacts-soc-item .link:focus {
   background-color: #404bbf;
 }
 
@@ -352,7 +352,6 @@ ul {
 .footer-cont {
   display: flex;
   align-items: baseline;
-  align-items: center;
 }
 
 .footer-contacts-soc {
@@ -408,10 +407,10 @@ ul {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.footer-contacts-soc:hover .link {
+.footer-contacts-item:hover .link {
   background-color: #31d0aa;
 }
 
-.footer-contacts-soc .link:focus {
+.footer-contacts-item:focus {
   background-color: #31d0aa;
 }
