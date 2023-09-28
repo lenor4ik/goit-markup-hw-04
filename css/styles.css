@@ -458,6 +458,10 @@ ul {
   background-color: #31d0aa;
 }
 
+.footer-contacts-item:focus .link {
+  background-color: #31d0aa;
+}
+
 .footer-contacts-item:active .link {
   background-color: #31d0aa;
 }
