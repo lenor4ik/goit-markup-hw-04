@@ -454,14 +454,8 @@ ul {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.footer-contacts-item:hover .link {
-  background-color: #31d0aa;
-}
-
-.footer-contacts-item:focus .link {
-  background-color: #31d0aa;
-}
-
-.footer-contacts-item:active .link {
+.footer-contacts-list .link:hover,
+.footer-contacts-list .link:focus,
+.footer-contacts-list .link:active {
   background-color: #31d0aa;
 }
