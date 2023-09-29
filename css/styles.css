@@ -118,7 +118,7 @@ ul {
   color: #404bbf;
 }
 
-.header-menu .header-menu-link .active-page::after {
+.active-page::after {
   content: "";
   position: absolute;
   left: 0;
