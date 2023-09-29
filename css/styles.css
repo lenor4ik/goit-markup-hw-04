@@ -110,7 +110,7 @@ ul {
   color: #404bbf;
 }
 
-.header-menu-item .header-menu-item {
+.header-menu .header-menu-item {
   position: relative;
 }
 
@@ -124,6 +124,7 @@ ul {
   left: 0;
   bottom: -1px;
   height: 4px;
+  width: 48px;
   background-color: #404bbf;
   border-radius: 2px;
 }
